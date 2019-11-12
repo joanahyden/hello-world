@@ -1,2 +1,4 @@
 # hello-world
-Its a small repository
+Hello World!
+
+I made some new changes and going to commit now.
